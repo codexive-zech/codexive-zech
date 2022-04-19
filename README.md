@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Zechariah Hounwanou. 
 
-- 🌱 I’m currently Re-learning HTML & CSS
+- 🌱 I’m currently Re-learning Frontend Technologies HTML, CSS & Javascript
 - 🤔 I’m looking for help with Web Development Docs
 - 🔭 I’m currently working on a Web Development Projects
 - ⚡ Fun fact: I Love Music and I Play the Drum, i feel out of the world when i do both same time ⚡
