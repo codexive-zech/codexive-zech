@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexive-zech&label=Profile%20views&color=0e75b6&style=flat" alt="codexive-zech" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codexive-zech" alt="codexive-zech" /></a> </p>
-
 - 🔭 I’m currently working on **Web Development Projects**
 
 - 🌱 I’m currently learning **Frontend Javascript React Library**
@@ -30,8 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codexive-zech&show_icons=true&locale=en" alt="codexive-zech" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexive-zech&" alt="codexive-zech" /></p>
-
- <img src="https://github-readme-stats.vercel.app/api?username=codexive-zech&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: [Twitter - @codexive_zech](https://twitter.com/codexive_zech)
