@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Zechariah Hounwanou</h1>
 <h3 align="center"> Self-taught Frontend Developer, who is Passionate about writing software programs that solves problems in an awesome and creative way.</h3>
 
-- 🔭 I’m currently working on **Web Development Projects**
+- 🔭 I’m currently working on **Web Development Projects.**
 
-- 🌱 I’m currently learning **Frontend Javascript React Library**
+- 🌱 I’m currently learning **Frontend Javascript React Library.**
 
 - 👯 I’m currently **undergoing an Internship at Ingressive4Food et Zuri**
 
-- 🤝 I’m looking for help with **More Understanding with the React Docs**
+- 🤝 I’m looking for help with **More Understanding with the React Docs.**
 
 - 📫 How to reach me **https://twitter.com/codexive_zech**
 
-- ⚡ Fun fact **I Love Music and I Play the Drum, i feel out of the world when i do both same time**
+- ⚡ Fun fact **I Love Music and I Play the Drum, i feel out of the world when i do both same time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
