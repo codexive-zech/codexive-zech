@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend Javascript React Library.**
 
-- 👯 I’m currently **undergoing an Internship at Ingressive4Food et Zuri**
+- 👯 I’m currently **undergoing an Internship at SideHustleNG**
 
 - 🤝 I’m looking for help with **More Understanding with the React Docs.**
 
