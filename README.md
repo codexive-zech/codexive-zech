@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Frontend Javascript React Library.**
 
-- 🤝 I’m looking for help with **More Understanding with the React Docs.**
+- 👯 I’m looking for an opputurnity on the role as a **Frontend React Developer.** 
+
+- 🤝 I’m looking for help with **More Understanding with Data Structure and Algorithm.**
 
 - 📫 How to reach me **https://twitter.com/codexive_zech**
 
@@ -28,6 +30,5 @@
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: [Twitter - @codexive_zech](https://twitter.com/codexive_zech)
 - 😄 Pronouns: ...
-- - 👯 I’m looking to collaborate on ... 
 - 👯 I currently **under goinging an Internship at HNGI9** -->
 
