@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zechariah Hounwanou</h1>
-<h3 align="center"> Self-taught Frontend Developer, who is Passionate about writing software programs that solves problems in an awesome and creative way.</h3>
+<h3 align="center"> Self-taught Frontend Developer and Technical Writer, who is Passionate about writing software programs and technical contents that solves problems in an awesome and creative way.</h3>
 
 - 🔭 I’m currently working on **Web Development Projects.**
 
