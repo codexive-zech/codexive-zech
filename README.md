@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Zechariah Hounwanou</h1>
-<h3 align="center"> Self-taught Frontend Developer and Technical Writer, who is Passionate about writing software programs and technical contents that solves problems in an awesome and creative way.</h3>
+<h3 align="center"> Self-taught Frontend Developer and Technical Writer, who is passionate about writing software programs and technical content that solves problems in an awesome and creative way.</h3>
 
 - 🔭 I’m currently working on **Web Development Projects.**
 
 - 🌱 I’m currently learning **Next.js Framework.**
 
-- 👯 I’m looking for an opputurnity on the role as a **Frontend React Developer.** 
+- 👯 I’m looking for an opportunity in the role of a **Frontend React Developer.** 
 
 - 🤝 I’m looking for help with **More Understanding with Data Structure and Algorithm.**
 
 - 📫 How to reach me **https://twitter.com/codexive_zech**
 
-- 📫 How to checkout my works: **https://zechariah.netlify.app**
+- 📫 How to check my works: **https://zechariah.vercel.app**
 
-- ⚡ Fun fact **I Love Music and I Play the Drum, i feel out of the world when i do both same time.**
+- ⚡ Fun fact **I Love Music and I Play the Drum, I feel out of the world when I do both same time.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
