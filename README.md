@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development Projects.**
 
-- 🌱 I’m currently learning **Next.js Framework.**
+- 🌱 I’m currently learning **Node JS For Backend**
 
 - 👯 I’m looking for an opportunity in the role of a **Frontend React Developer.** 
 
